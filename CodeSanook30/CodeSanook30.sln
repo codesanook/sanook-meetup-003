@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSanook30", "CodeSanook30\CodeSanook30.csproj", "{710A07D2-9BC7-4B99-A3A7-7FB1339E8A11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeSanook30", "CodeSanook30\CodeSanook30.csproj", "{710A07D2-9BC7-4B99-A3A7-7FB1339E8A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSanook30-Final", "CodeSanook30-Final\CodeSanook30-Final.csproj", "{F11CACF7-98CD-4B36-8F44-2E381C9F8626}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{710A07D2-9BC7-4B99-A3A7-7FB1339E8A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{710A07D2-9BC7-4B99-A3A7-7FB1339E8A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{710A07D2-9BC7-4B99-A3A7-7FB1339E8A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11CACF7-98CD-4B36-8F44-2E381C9F8626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11CACF7-98CD-4B36-8F44-2E381C9F8626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11CACF7-98CD-4B36-8F44-2E381C9F8626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11CACF7-98CD-4B36-8F44-2E381C9F8626}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
